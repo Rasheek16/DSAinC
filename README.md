@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Rasheek16/DataStructuresAlgorithm-in--C-)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Rasheek16/DataStructuresAlgorithm-in--C-)
 
-Welcome to the Data Structures and Algorithms in C repository! This project is a collection of various data structures and algorithms implemented in the C programming language.
+Welcome to the **Data Structures and Algorithms in C** repository! This project is a collection of various data structures and algorithms implemented in the C programming language.
 
 ## Table of Contents
 
