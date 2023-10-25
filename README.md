@@ -1,9 +1,10 @@
 # Data Structures and Algorithms in C
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/data-structures-algorithms-c)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/data-structures-algorithms-c)
+![GitHub repo size](https://img.shields.io/github/repo-size/Rasheek16/DataStructuresAlgorithm-in--C-)
+![GitHub last commit](https://img.shields.io/github/last-commit/Rasheek16/DataStructuresAlgorithm-in--C-)
 
-Welcome to the Data Structures and Algorithms in C repository! This project is a collection of various data structures and algorithms implemented in the C programming language.
+
+Welcome to the **Data Structures and Algorithms in C** repository! This project is a collection of various data structures and algorithms implemented in the C programming language.
 
 ## Table of Contents
 
@@ -56,5 +57,5 @@ Here's a list of algorithms currently included in this repository:
 To use the code in this repository, you need to have a C compiler installed on your system. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/data-structures-algorithms-c.git
-cd data-structures-algorithms-c
+git clone https://github.com/Rasheek16/DataStructuresAlgorithm-in--C-.git
+cd DataStructuresAlgorithm-in--C-
